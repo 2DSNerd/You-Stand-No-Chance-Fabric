@@ -1,3 +1,5 @@
+package net.ddsnerd.yourbad.block;
+
 import net.ddsnerd.yourbad.item.ModItemGroup;
 import net.ddsnerd.yourbad.yourbad;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
