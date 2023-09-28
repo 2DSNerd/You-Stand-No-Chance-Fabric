@@ -1,4 +1,5 @@
 package net.ddsnerd.yourbad.item;
+package net.ddsnerd.yourbad.block;
 
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
 import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
